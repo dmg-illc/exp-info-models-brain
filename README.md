@@ -2,7 +2,7 @@
 
 This repository contains the code base for the homonymous [paper](https://arxiv.org/abs/2504.00942) by Anna Bavaresco and Raquel Fernández, accepted to CoNLL 2025.
 
-[Exp setup.pdf](https://github.com/user-attachments/files/20706615/Exp.setup.pdf)
+![Exp setup](https://github.com/user-attachments/assets/f66b6c87-0a31-4bef-ab2b-46ea933242d8)
 
 
 If you find any on the contents of this repo useful, please consider citing our work:
