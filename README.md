@@ -1,6 +1,6 @@
 # Experiential Semantic Information and Brain Alignment: Are Multimodal Models Better than Language Models?
 
-This repository contains the code base for the homonymous [paper]([https://arxiv.org/abs/2504.00942](https://aclanthology.org/2025.conll-1.10/)) by Anna Bavaresco and Raquel Fernández, accepted to CoNLL 2025.
+This repository contains the code base for the homonymous [paper](https://aclanthology.org/2025.conll-1.10/) by Anna Bavaresco and Raquel Fernández, accepted to CoNLL 2025.
 
 ![Exp setup](https://github.com/user-attachments/assets/f66b6c87-0a31-4bef-ab2b-46ea933242d8)
 
