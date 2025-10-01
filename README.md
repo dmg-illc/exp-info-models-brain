@@ -6,7 +6,7 @@ This repository contains the code base for the homonymous [paper](https://aclant
 
 ## Structure
 
-The content of this repo is structures as follows:
+The content of this repo is structured as follows:
 
 ```
 .
